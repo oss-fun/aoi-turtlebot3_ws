@@ -1,0 +1,3 @@
+[console_scripts]
+teleop_wiiboard = teleop_wiiboard.script.teleop_wiiboard:main
+

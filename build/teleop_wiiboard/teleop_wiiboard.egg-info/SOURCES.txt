@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../../build/teleop_wiiboard/teleop_wiiboard.egg-info/PKG-INFO
+../../../build/teleop_wiiboard/teleop_wiiboard.egg-info/SOURCES.txt
+../../../build/teleop_wiiboard/teleop_wiiboard.egg-info/dependency_links.txt
+../../../build/teleop_wiiboard/teleop_wiiboard.egg-info/entry_points.txt
+../../../build/teleop_wiiboard/teleop_wiiboard.egg-info/requires.txt
+../../../build/teleop_wiiboard/teleop_wiiboard.egg-info/top_level.txt
+../../../build/teleop_wiiboard/teleop_wiiboard.egg-info/zip-safe
+resource/teleop_wiiboard
+teleop_wiiboard/__init__.py
+teleop_wiiboard/script/__init__.py
+teleop_wiiboard/script/teleop_wiiboard.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
