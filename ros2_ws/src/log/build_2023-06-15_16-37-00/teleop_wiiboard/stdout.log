@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing teleop_wiiboard.egg-info/PKG-INFO
+writing dependency_links to teleop_wiiboard.egg-info/dependency_links.txt
+writing entry points to teleop_wiiboard.egg-info/entry_points.txt
+writing requirements to teleop_wiiboard.egg-info/requires.txt
+writing top-level names to teleop_wiiboard.egg-info/top_level.txt
+reading manifest file 'teleop_wiiboard.egg-info/SOURCES.txt'
+writing manifest file 'teleop_wiiboard.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ossfun/study/aoi-turtlebot3_ws/ros2_ws/src/install/teleop_wiiboard/lib/python3.10/site-packages/teleop-wiiboard.egg-link (link to .)
+Installing teleop_wiiboard script to /home/ossfun/study/aoi-turtlebot3_ws/ros2_ws/src/install/teleop_wiiboard/lib/teleop_wiiboard
+
+Installed /home/ossfun/study/aoi-turtlebot3_ws/ros2_ws/src/build/teleop_wiiboard
+running install_data

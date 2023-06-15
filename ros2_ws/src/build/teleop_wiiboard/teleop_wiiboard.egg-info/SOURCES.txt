@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+resource/teleop_wiiboard
+teleop_wiiboard/__init__.py
+teleop_wiiboard.egg-info/PKG-INFO
+teleop_wiiboard.egg-info/SOURCES.txt
+teleop_wiiboard.egg-info/dependency_links.txt
+teleop_wiiboard.egg-info/entry_points.txt
+teleop_wiiboard.egg-info/requires.txt
+teleop_wiiboard.egg-info/top_level.txt
+teleop_wiiboard.egg-info/zip-safe
+teleop_wiiboard/script/__init__.py
+teleop_wiiboard/script/teleop_wiiboard.py

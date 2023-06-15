@@ -1,0 +1,9 @@
+source;share/teleop_wiiboard/hook/pythonpath.ps1
+source;share/teleop_wiiboard/hook/pythonpath.dsv
+source;share/teleop_wiiboard/hook/pythonpath.sh
+source;share/teleop_wiiboard/hook/ament_prefix_path.ps1
+source;share/teleop_wiiboard/hook/ament_prefix_path.dsv
+source;share/teleop_wiiboard/hook/ament_prefix_path.sh
+source;../../build/teleop_wiiboard/share/teleop_wiiboard/hook/pythonpath_develop.ps1
+source;../../build/teleop_wiiboard/share/teleop_wiiboard/hook/pythonpath_develop.dsv
+source;../../build/teleop_wiiboard/share/teleop_wiiboard/hook/pythonpath_develop.sh

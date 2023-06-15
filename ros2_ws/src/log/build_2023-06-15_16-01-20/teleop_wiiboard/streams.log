@@ -1,0 +1,22 @@
+[0.929s] Invoking command in '/home/ossfun/study/aoi-turtlebot3_ws/ros2_ws/src/teleop_wiiboard': PYTHONPATH=/home/ossfun/study/aoi-turtlebot3_ws/ros2_ws/src/build/teleop_wiiboard/prefix_override:/home/ossfun/study/aoi-turtlebot3_ws/ros2_ws/src/install/teleop_wiiboard/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/teleop_wiiboard build --build-base /home/ossfun/study/aoi-turtlebot3_ws/ros2_ws/src/build/teleop_wiiboard/build install --record /home/ossfun/study/aoi-turtlebot3_ws/ros2_ws/src/build/teleop_wiiboard/install.log --single-version-externally-managed
+[1.281s] running egg_info
+[1.281s] writing ../build/teleop_wiiboard/teleop_wiiboard.egg-info/PKG-INFO
+[1.281s] writing dependency_links to ../build/teleop_wiiboard/teleop_wiiboard.egg-info/dependency_links.txt
+[1.281s] writing entry points to ../build/teleop_wiiboard/teleop_wiiboard.egg-info/entry_points.txt
+[1.282s] writing requirements to ../build/teleop_wiiboard/teleop_wiiboard.egg-info/requires.txt
+[1.282s] writing top-level names to ../build/teleop_wiiboard/teleop_wiiboard.egg-info/top_level.txt
+[1.283s] reading manifest file '../build/teleop_wiiboard/teleop_wiiboard.egg-info/SOURCES.txt'
+[1.283s] writing manifest file '../build/teleop_wiiboard/teleop_wiiboard.egg-info/SOURCES.txt'
+[1.283s] running build
+[1.283s] running build_py
+[1.283s] running install
+[1.283s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.284s]   warnings.warn(
+[1.284s] running install_lib
+[1.285s] running install_data
+[1.286s] running install_egg_info
+[1.288s] removing '/home/ossfun/study/aoi-turtlebot3_ws/ros2_ws/src/install/teleop_wiiboard/lib/python3.10/site-packages/teleop_wiiboard-1.0.0-py3.10.egg-info' (and everything under it)
+[1.288s] Copying ../build/teleop_wiiboard/teleop_wiiboard.egg-info to /home/ossfun/study/aoi-turtlebot3_ws/ros2_ws/src/install/teleop_wiiboard/lib/python3.10/site-packages/teleop_wiiboard-1.0.0-py3.10.egg-info
+[1.289s] running install_scripts
+[1.315s] writing list of installed files to '/home/ossfun/study/aoi-turtlebot3_ws/ros2_ws/src/build/teleop_wiiboard/install.log'
+[1.333s] Invoked command in '/home/ossfun/study/aoi-turtlebot3_ws/ros2_ws/src/teleop_wiiboard' returned '0': PYTHONPATH=/home/ossfun/study/aoi-turtlebot3_ws/ros2_ws/src/build/teleop_wiiboard/prefix_override:/home/ossfun/study/aoi-turtlebot3_ws/ros2_ws/src/install/teleop_wiiboard/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/teleop_wiiboard build --build-base /home/ossfun/study/aoi-turtlebot3_ws/ros2_ws/src/build/teleop_wiiboard/build install --record /home/ossfun/study/aoi-turtlebot3_ws/ros2_ws/src/build/teleop_wiiboard/install.log --single-version-externally-managed
