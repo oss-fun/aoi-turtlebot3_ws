@@ -192,22 +192,22 @@ def main(args=None):
             if wiiboard_subscriber.received_data[1] < 0:  # key == 'w' or key == 'W':
                 target_linear_velocity = \
                     check_linear_limit_velocity(target_linear_velocity + LIN_VEL_STEP_SIZE)
-                status = status + 10
+                status = status + 1
                 print_vels(target_linear_velocity, target_angular_velocity)
             elif wiiboard_subscriber.received_data[1] > 0:  # key == 'x' or key == 'X':
                 target_linear_velocity = \
                     check_linear_limit_velocity(target_linear_velocity - LIN_VEL_STEP_SIZE)
-                status = status + 10
+                status = status + 1
                 print_vels(target_linear_velocity, target_angular_velocity)
             elif wiiboard_subscriber.received_data[0] < 0:  # key == 'a' or key == 'A':
                 target_angular_velocity = \
                     check_angular_limit_velocity(target_angular_velocity + ANG_VEL_STEP_SIZE)
-                status = status + 10
+                status = status + 1
                 print_vels(target_linear_velocity, target_angular_velocity)
             elif wiiboard_subscriber.received_data[0] > 0:
                 target_angular_velocity = \
                     check_angular_limit_velocity(target_angular_velocity - ANG_VEL_STEP_SIZE)
-                status = status + 10
+                status = status + 1
                 print_vels(target_linear_velocity, target_angular_velocity)
             elif wiiboard_subscriber.received_data[1] == 0 and wiiboard_subscriber.received_data[0] == 0:
                 target_linear_velocity = 0.0
